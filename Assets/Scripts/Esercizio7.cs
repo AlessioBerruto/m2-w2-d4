@@ -49,5 +49,6 @@ public class Esercizio7 : MonoBehaviour
         }
 
         Debug.Log("La somma è: " + risultato);
+
     }
 }
